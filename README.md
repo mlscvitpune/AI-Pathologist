@@ -38,9 +38,7 @@
 
 ## Contributors
 - Omkar Prabhune
-- Varad Kajarekar
 - Shreyash Deshmukh
 - Isha Deshpande
 - Manomay Jamble
 - Devanshu Dalal
-- Vaishnavi Pingat
