@@ -4,6 +4,7 @@
 ![Flask](https://img.shields.io/badge/Flask-1.1.5-lightblue?style=for-the-badge)
 ![PR](https://img.shields.io/badge/PRs-welcome-red?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/%20-Open%20Source-blueviolet?style=for-the-badge)
+![Club](https://img.shields.io/badge/%20-MLSC%20VIT-darkblue?style=for-the-badge)
 
 ## Important Links
 - [Document for Project Progress](https://docs.google.com/document/d/1pv3LflkUZkE4ew86rI3FuPUinsb6uap9_0paiG8Z1AU/edit?usp=sharing)
