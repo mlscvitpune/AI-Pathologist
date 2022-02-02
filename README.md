@@ -26,6 +26,13 @@
 - Got an accuracy of 90 percent on logistic regression and naive bayes 
 - Would work on preprocessing and improving accuracy
 
+### [Approach 3 - Shreyash Deshmukh](#)
+- Explored data set and did EDA of data
+- Cleaned the data by using data cleaning techniques
+- Tried some machine learning models and found the appropriate model according to data
+- Got an accuracy of 85.5 percent by KNN model
+- Done with the creating input function for the user to input the data
+
 <br>
 
 ## Contributors
