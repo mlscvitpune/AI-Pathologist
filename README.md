@@ -22,7 +22,7 @@
 - Another way to predict cholesterol values using other features
 
 ### [Approach 2 - Devanshu Dalal](https://colab.research.google.com/drive/1_QETqJhC4h_23JNs5v-O46ckJ1vsUkxM?usp=sharing)
-- Explore dataset to find trends in data
+- Explored dataset to find trends in data
 - Preprocess data to remove unrealistic values and didone hot encoding
 - Tried various models like Random Forest, Decision Tree, KNN, Logistic regression,  Naive Bayes
 - Got an accuracy of 90 percent on logistic regression and naive bayes 
@@ -35,6 +35,17 @@
 - Got an accuracy of 85.5 percent by KNN model
 - Done with the creating input function for the user to input the data
 
+### [Approach 4 - Vaishnavi Pingat](https://colab.research.google.com/drive/1Fjsry-aSAENEU5C22kkVjh9suLrIsLpg)
+- Finished basic exploration and preprocessing of dataset
+- Implemented Several Models with accuracies:
+  - Logistic Regression : 91%
+  - Decision Tree : 79%
+  - Random Frorest : 89%
+  - Bagging Classifier : 87%
+  - Gradient Boost : 89% 
+  - Adaboost : 89%
+  - Voting Classifier : 90%
+
 <br>
 
 ## Contributors
@@ -43,3 +54,4 @@
 - Isha Deshpande
 - Manomay Jamble
 - Devanshu Dalal
+- Vaishnavi Pingat
